@@ -44,7 +44,7 @@ AI-CodeCompass is an autonomous codebase assistant that analyzes source code to 
   
   <li><strong>Uvicorn: </strong>ASGI server to run FastAPI app efficiently.</li>
     
-  <li><strong>Pydantic: </strong>or request/response data validation and modeling.</li>
+  <li><strong>Pydantic: </strong>For request/response data validation and modeling.</li>
 </ul>
 
 ### 🤖 Agents & LLM Integration
