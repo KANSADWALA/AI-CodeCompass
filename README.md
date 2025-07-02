@@ -1,4 +1,4 @@
-# AI-CodeCompass
+# 🤖 AI-CodeCompass
 
 ## 📋 Overview
 
