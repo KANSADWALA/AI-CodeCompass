@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 
-AI-CodeCompass is an autonomous codebase assistant designed to analyze source code, generate summary,documentation, answer questions, and suggest refactorings — all with AI. It provides a fast, extensible API powered by LLMs and a Streamlit frontend for ease of use.
+AI-CodeCompass is an autonomous codebase assistant designed to analyze source code, generate summary, documentation, answer questions, and suggest refactorings — all with AI. It provides a fast, extensible API powered by LLMs and a Streamlit frontend for ease of use.
 
 ## 📦 Features
 
